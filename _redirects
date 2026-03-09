@@ -1,0 +1,7 @@
+# Cloudflare Pages _redirects
+# This repo is deployed to commenzo.com/blog via a Cloudflare Worker or Pages path prefix.
+# No redirects needed if using Pages with a /blog path prefix configured in the Worker.
+# Add any custom redirects below as needed:
+
+# Example: redirect old URL patterns
+# /blog/old-slug  /blog/posts/new-slug.html  301
